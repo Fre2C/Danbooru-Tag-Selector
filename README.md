@@ -2,8 +2,8 @@
 
 ## 界面预览
 
-![](https://github.com/Fre2C/Danbooru-Tag-Selector/blob/master/preveiw/801fd5294d4a.png)  
-![](https://github.com/Fre2C/Danbooru-Tag-Selector/blob/master/preveiw/af83592faab7.png)
+![](https://github.com/Fre2C/Danbooru-Tag-Selector/blob/main/preview/801fd5294d4a.png)  
+![](https://github.com/Fre2C/Danbooru-Tag-Selector/blob/main/preview/af83592faab7.png)
 
 ## 功能概览
 
