@@ -80,7 +80,7 @@
 ## 使用方法
 
 1. 直接在浏览器中打开 `Danbooru-Selector.html` 文件
-2. 上传 CSV 或 JSON 格式的数据文件（可提前选择编码）
+2. 上传 CSV 或 JSON 格式的数据文件（可提前选择编码），本工具默认使用[DanbooruSearchOnline](https://github.com/SuzumiyaAkizuki/DanbooruSearchOnline)的[数据](https://github.com/SuzumiyaAkizuki/DanbooruSearchOnline/blob/main/origin_database/tags_enhanced.csv)。
 3. 使用筛选器和搜索栏缩小数据范围
 4. 通过"随机抽取"或"浏览"标签页选取标签
 5. 将选中的标签添加到候选列表
