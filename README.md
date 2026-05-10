@@ -1,5 +1,10 @@
 # Danbooru-Tag-Selector
 
+## 界面预览
+
+![](https://github.com/Fre2C/Danbooru-Tag-Selector/blob/master/preveiw/801fd5294d4a.png)  
+![](https://github.com/Fre2C/Danbooru-Tag-Selector/blob/master/preveiw/af83592faab7.png)
+
 ## 功能概览
 
 ### 数据加载
