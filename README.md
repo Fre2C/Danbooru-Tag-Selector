@@ -80,18 +80,25 @@
 ## 使用方法
 
 1. 直接在浏览器中打开 `Danbooru-Selector.html` 文件
-2. 上传 CSV 或 JSON 格式的数据文件（可提前选择编码），本工具默认使用[DanbooruSearchOnline](https://github.com/SuzumiyaAkizuki/DanbooruSearchOnline)的[数据](https://github.com/SuzumiyaAkizuki/DanbooruSearchOnline/blob/main/origin_database/tags_enhanced.csv)。
+2. 上传 CSV 或 JSON 格式的数据文件（可提前选择编码）
 3. 使用筛选器和搜索栏缩小数据范围
 4. 通过"随机抽取"或"浏览"标签页选取标签
 5. 将选中的标签添加到候选列表
 6. 复制或导出候选列表
 
+## 数据集
+
+- 本工具默认使用[SuzumiyaAkizuki](https://github.com/SuzumiyaAkizuki)的[DanbooruSearchOnline](https://github.com/SuzumiyaAkizuki/DanbooruSearchOnline)项目的[数据](https://github.com/SuzumiyaAkizuki/DanbooruSearchOnline/blob/main/origin_database/tags_enhanced.csv)
+- 可以通过data_tool文件夹中的脚本，对[DanbooruSearchEmbedding](https://huggingface.co/buckets/SAkizuki/DanbooruSearchEmbedding/tree/origin_database)中的tag_groups.json和tags_enhanced.csv文件进行合并后在当前版本中使用
+
 ## 路线图
 
+- [ ] 优化tag_groups的筛选及其他体验
 - [ ] 用比网页对话更正常一点的方式把文件规范地重构一下
 - [ ] 增加完善的标签收藏功能（更新至1.0.0）
 
 ## 版本历史
 
 ### v0.6.0
+2026.5.10
 第一个功能完善版本
